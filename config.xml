@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<widget id="com.startapplabs.bazaar" version="1.0.2" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-  <name>BAZAAR</name>
+<widget id="com.sap.ben" version="1.0.2" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+  <name>Ben Theme</name>
   <description>
-    Amazing Ionic Full app Template
+    Amazing Ionic and AngularJS Full app Template
   </description>
-  <author email="hi@startapplabs.com" href="http://example.com.com/">
-    StartappLabs
+  <author email="benjaminsapaning@yahoo.com.com" href="http://example.com.com/">
+    SapTheme
   </author>
   <content src="index.html"/>
   <access origin="*"/>
